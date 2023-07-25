@@ -2,6 +2,11 @@
 
 small_pipe (small_pp for short) is a minimal abstraction layer for piping operations in python.
 
+## Install
+```shell
+pip install small_pipe
+```
+
 ## Examples
 
 You can alias your functions and then use it in the pipe function like so
